@@ -5,9 +5,9 @@
 + 打開並啟動 VTube Studio 應用程式。
 
   ![vTube icon](vTube.png)
-+ 進入 VTube Studio 的 API 設置欄，輸入 API 密鑰 8051，並點擊 “確認 API 調用” 按鈕。
++ 進入 VTube Studio 的 API 設置欄，輸入埠號 6555，並點擊 “確認 API 調用” 按鈕。
 
-  ![vTube Setting](vTube-setting.png)
+  ![vTube Setting](vTube-setting-6555.png)
 ### 2. 配置 NOVA CHAT 應用程式
 + 打開 NOVA CHAT 應用程式。
 + 點擊 "設定" 按鈕，Vtube Studio 會提示是否同意掛載第三方應用程式，確認即可。
